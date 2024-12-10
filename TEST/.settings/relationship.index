@@ -44,4 +44,23 @@
     "version" : "Latest",
     "type" : "routine"
   } ]
+}, {
+  "baseItem" : {
+    "id" : "_mfKQELb4Ee-tWslUr8HhYA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_zWPXYLbQEe-zN8NY-t79bQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zWPXYLbQEe-zN8NY-t79bQ - plantes",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_zWPXYLbQEe-zN8NY-t79bQ - utilisateurs",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
 } ]
