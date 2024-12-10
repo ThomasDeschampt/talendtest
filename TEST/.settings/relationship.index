@@ -1,5 +1,20 @@
 [ {
   "baseItem" : {
+    "id" : "_OGgU4LbREe-zN8NY-t79bQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_zWPXYLbQEe-zN8NY-t79bQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_zWPXYLbQEe-zN8NY-t79bQ - utilisateurs",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
     "version" : "0.1",
     "type" : "job"
